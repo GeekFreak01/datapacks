@@ -11,7 +11,7 @@
     "E": { "item": "minecraft:echo_shard" }
   },
   "result": {
-    "id": "minecraft:structure_void",
+    "item": "minecraft:structure_void",
     "count": 1
   }
 }
